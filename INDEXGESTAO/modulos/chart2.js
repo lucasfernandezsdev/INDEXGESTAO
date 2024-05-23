@@ -16,7 +16,7 @@ new Chart(ctx2, {
         ],
       },
       options: {
-        indexAxis: "y",
+        indexAxis: "x",
         scales: {
           y: {
             beginAtZero: true,
